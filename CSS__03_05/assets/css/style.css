@@ -1,3 +1,27 @@
 body{
   background-color: darkslateblue;
 }
+.main-heading{
+  color:aqua;
+
+  font-size: ;
+}
+
+.page-link{ background-color:aliceblue;
+color: blue;
+font-size: 20px;
+text-decoration: none;
+}
+
+.art-heading{
+background-color:chocolate;
+
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+  font-style: italic;
+  text-align: right;
+  text-transform: uppercase;
+}
+
+.art-content{
+
+}
